@@ -85,8 +85,3 @@ print("Training Score: ",Naiyes.score(features, class_label))
 print("Cross_Validation Score : ",crossval_score(Naiyes,features,class_label,5))
 
 
-# In[ ]:
-
-
-
-
